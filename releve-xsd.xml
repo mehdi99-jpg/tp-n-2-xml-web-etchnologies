@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<releve xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/C:/Users/hyndi/Documents/my-xml-files/releve-xml/releve.xsd" RIB="5641324654546545445464">
+    <dateReleve>2025-10-04</dateReleve>
+    <solde>17500</solde>
+    <operations dateDebut="2024-01-01" dateFin="2024-06-28">
+        <operation type="CREDIT" date="2024-01-15" montant="15000" description="Virement salaire"/>
+        <operation type="DEBIT" date="2024-02-10" montant="1200" description="Prélèvement loyer"/>
+        <operation type="CREDIT" date="2024-02-15" montant="3000" description="Virement espèces"/>
+        <operation type="DEBIT" date="2024-03-05" montant="450" description="Prélèvement assurance"/>
+        <operation type="DEBIT" date="2024-03-25" montant="8300" description="Chèque guichet"/>
+        <operation type="CREDIT" date="2024-04-20" montant="2500" description="Remboursement"/>
+        <operation type="DEBIT" date="2024-05-12" montant="380" description="Prélèvement électricité"/>
+        <operation type="CREDIT" date="2024-06-15" montant="11500" description="Virement"/>
+    </operations>
+</releve>
